@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = My Application
+title = Random Number Generator
 
 # (str) Package name
-package.name = myapp
+package.name = randomnumbergenerator
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
